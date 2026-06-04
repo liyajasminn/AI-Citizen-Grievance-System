@@ -77,7 +77,7 @@ The AI-Driven Citizen Grievance System uses Machine Learning and Natural Languag
 - Uploaded project to GitHub.
 - Deployed application for testing.
 - Deliverables
-FastAPI backend
-Streamlit dashboard
-GitHub repository
-Deployed application
+- FastAPI backend
+- Streamlit dashboard
+- GitHub repository
+- Deployed application
